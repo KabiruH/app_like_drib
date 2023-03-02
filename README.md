@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To view the application, follow this link
 
-https://dribble-ph2-project.vercel.app/
+https://app-like-drib.vercel.app/
 
 # Features 
 
