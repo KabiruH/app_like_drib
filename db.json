@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "avatar_url": "https://cdn.dribbble.com/users/14810642/avatars/normal/data?1674547234",
+      "bio": "",
+      "can_upload_shot": true,
+      "created_at": "2023-01-24T03:00:34.024-05:00",
+      "followers_count": 0,
+      "html_url": "https://dribbble.com/KabiruH",
+      "id": 14810642,
+      "links": {},
+      "location": "Nairobi",
+      "login": "KabiruH",
+      "name": "Kabiru Huria",
+      "pro": false,
+      "type": "User",
+      "email": "huriakelvin@gmail.com",
+      "teams": []
+    },
+
+    {
+      "avatar_url": "https://cdn.dribbble.com/users/14842343/avatars/normal/d9a294ea9be3fdf836ca9ebf3d331605.jpeg?1674739373",
+      "bio": "",
+      "can_upload_shot": true,
+      "created_at": "2023-01-26T08:22:11.459-05:00",
+      "followers_count": 0,
+      "html_url": "https://dribbble.com/CultureJess",
+      "id": 14842343,
+      "links": {},
+      "location": "Nairobi",
+      "login": "CultureJess",
+      "name": "Jessica Gichuru",
+      "pro": false,
+      "type": "User",
+      "email": "jessica.gichuru@student.moringaschool.com",
+      "teams": []
+    },
+
+    {
+      "avatar_url": "https://cdn.dribbble.com/users/14813787/avatars/normal/e2ea8e2ec22a44023a78eb75501be3e2.jpeg?1674564319",
+      "bio": "",
+      "can_upload_shot": true,
+      "created_at": "2023-01-24T07:28:09.311-05:00",
+      "followers_count": 0,
+      "html_url": "https://dribbble.com/stinnenjoki",
+      "id": 14813787,
+      "links": {},
+      "location": "Nairobi",
+      "login": "stinnenjoki",
+      "name": "christine ",
+      "pro": false,
+      "type": "User",
+      "email": "christine.njoki@student.moringaschool.com",
+      "teams": []
+    },
+
+    {
+      "avatar_url": "https:default_avatars/avatar-8.png",
+      "bio": "",
+      "can_upload_shot": true,
+      "created_at": "2023-01-26T05:37:22.552-05:00",
+      "followers_count": 0,
+      "html_url": "https://dribbble.com/Kombobill",
+      "id": 14840467,
+      "links": {},
+      "location": "Nairobi",
+      "login": "Kombobill",
+      "name": "Billgates",
+      "pro": false,
+      "type": "User",
+      "email": "billgates.kombo@student.moringaschool.com",
+      "teams": []
+    },
+    
+    {
+      "id": 14842344
+    },
+    {
+      "id": 14842345
+    },
+    {
+      "id": 14842346
+    },
+    {
+      "id": 14842347
+    },
+    {
+      "id": 14842348
+    },
+    {
+      "id": 14842349
+    },
+    {
+      "id": 14842350
+    },
+    {
+      "id": 14842351
+    }
+  ]
+}
